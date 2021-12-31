@@ -1,0 +1,29 @@
+.green{
+    background-color: green;
+    width: 600px;
+    height: 300px;
+    position: relative;
+}
+.red{
+
+width: 150px;
+
+height: 150px;
+
+background: red;
+
+border-radius: 50%;
+
+position: absolute;
+
+left: 50%;
+
+top: 50%;
+
+transform: translate(-71px, -69px);
+}
+.bd_flag{
+    margin: auto;
+    margin-top: 200px;
+    margin-left: 600px;
+}
